@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+}
+
+.masthead {
+  background-image: url(https://static.pexels.com/photos/35637/alaska-glacier-ice-mountains.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4em;
+}
+
+.masthead-intro {
+  color: #FF0053;
+  font-size: 60px;
+  margin: 0px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-align: right;
+  padding: 2px 2px 2px 2px;
+}
+
+.masthead-heading {
+  color: #FF0053;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 5em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  text-align: right;
+  text-shadow: 4px 4px #B21246;
+  padding: 3px;
+}
+
+.intro,
+.location,
+.questions {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1em 1em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h1 {
+  color: #FF0808;
+  font-size: 30px;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  padding: 0.2em;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+h2 {
+  padding: 0.2em;
+  color: #FF0808;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.footer {
+  text-align: center;
+  color: #FF0808;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+.social > li {
+  display: inline-block;
+}
